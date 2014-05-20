@@ -38,11 +38,11 @@
      if(exports){
     __p += '\n' +
     ((__t = ( contents )) == null ? '' : __t) +
-    '\nreturn ' +
+    '\n ' +
     ((__t = ( exports )) == null ? '' : __t) +
     ';\n';
      } else {
-    __p += '\nreturn ' +
+    __p += '\n ' +
     ((__t = ( contents )) == null ? '' : __t) +
     ';\n';
      }
